@@ -1,0 +1,10 @@
+C:\Users\苏子晴\source\repos\2018-suanfa\2018-12-17完美数\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\苏子晴\source\repos\2018-suanfa\2018-12-17完美数\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\苏子晴\source\repos\2018-suanfa\2018-12-17完美数\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\苏子晴\source\repos\2018-suanfa\2018-12-17完美数\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\苏子晴\source\repos\2018-suanfa\2018-12-17完美数\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\苏子晴\source\repos\2018-suanfa\2018-12-17完美数\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\苏子晴\source\repos\2018-suanfa\2018-12-17完美数\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\苏子晴\source\repos\2018-suanfa\2018-12-17完美数\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\苏子晴\source\repos\2018-suanfa\2018-12-17完美数\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\苏子晴\source\repos\2018-suanfa\2018-12-17完美数\WindowsForms\obj\Debug\WindowsForms.pdb
